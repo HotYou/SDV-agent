@@ -29,4 +29,8 @@ Agents communicate through the in-game chat, just like human players. Humans can
 
 Real players use eyes and hands. If agents learn to play through the screen and keyboard, they can play any game, not just one with a modding API. They will be excellent gaming companions for humans.
 
+## Contributing
+Any input is welcome!
 
+## Next step
+Let the agent see the soil and correctly decide whether it needs watering.
